@@ -1,0 +1,304 @@
+{
+  "admins": [
+    {
+      "id": 1,
+      "username": "bytemcadmin",
+      "role": "admin",
+      "password_hash": "$2a$10$x4jKxUBSPo7nfl9WiCTktueL58zfbR1WH8cWuOo6i3rvhQ1pQI0pa"
+    },
+    {
+      "id": 2,
+      "username": "moder",
+      "role": "moderator",
+      "password_hash": "$2a$10$Ff3.MuGS4qT0ijmm0g4eTOOuBmSmfz5VHHF1skNUVpQKekoFFiGFG"
+    },
+    {
+      "id": 3,
+      "username": "helper",
+      "role": "helper",
+      "password_hash": "$2a$10$pWBBPJbCQrq0TNr4aER.l.8h4DmeUFGYbyFnmN2S2jv62DlC/RNB."
+    }
+  ],
+  "entries": [
+    {
+      "id": 45,
+      "type": "ban",
+      "player": "11231",
+      "reason": "sada",
+      "image_url": "/uploads/1763291834442_rain.jpg",
+      "created_at": "2025-11-16T11:17:14.446Z",
+      "issuer": "bytemcadmin"
+    }
+  ],
+  "players_seen": [
+    {
+      "id": 2,
+      "player": "§9§lNull§b§lCord§f§lX",
+      "first_seen": "2025-11-13T17:15:07.384Z"
+    },
+    {
+      "id": 3,
+      "player": "§bYourNetwork player info",
+      "first_seen": "2025-11-13T17:15:07.384Z"
+    },
+    {
+      "id": 4,
+      "player": "§fOnline: §346§8/§b2025",
+      "first_seen": "2025-11-13T17:15:07.384Z"
+    },
+    {
+      "id": 5,
+      "player": "§fOnline: §342§8/§b2025",
+      "first_seen": "2025-11-13T17:25:34.732Z"
+    },
+    {
+      "id": 7,
+      "player": "§fOnline: §343§8/§b2025",
+      "first_seen": "2025-11-13T17:28:22.921Z"
+    },
+    {
+      "id": 8,
+      "player": "§fOnline: §340§8/§b2025",
+      "first_seen": "2025-11-13T17:33:23.379Z"
+    },
+    {
+      "id": 9,
+      "player": "§fOnline: §341§8/§b2025",
+      "first_seen": "2025-11-13T17:33:34.022Z"
+    },
+    {
+      "id": 11,
+      "player": "§fOnline: §332§8/§b2025",
+      "first_seen": "2025-11-13T18:10:20.943Z"
+    },
+    {
+      "id": 12,
+      "player": "§fOnline: §331§8/§b2025",
+      "first_seen": "2025-11-13T18:10:50.264Z"
+    },
+    {
+      "id": 13,
+      "player": "§fOnline: §330§8/§b2025",
+      "first_seen": "2025-11-13T18:18:13.125Z"
+    },
+    {
+      "id": 15,
+      "player": "§fOnline: §329§8/§b2025",
+      "first_seen": "2025-11-13T18:27:53.998Z"
+    },
+    {
+      "id": 17,
+      "player": "§fOnline: §326§8/§b2025",
+      "first_seen": "2025-11-13T18:30:51.863Z"
+    },
+    {
+      "id": 18,
+      "player": "§fOnline: §323§8/§b2025",
+      "first_seen": "2025-11-13T18:32:26.162Z"
+    },
+    {
+      "id": 19,
+      "player": "§fOnline: §325§8/§b2025",
+      "first_seen": "2025-11-13T18:32:36.211Z"
+    },
+    {
+      "id": 22,
+      "player": "§fOnline: §324§8/§b2025",
+      "first_seen": "2025-11-13T18:32:48.075Z"
+    },
+    {
+      "id": 23,
+      "player": "§fOnline: §321§8/§b2025",
+      "first_seen": "2025-11-13T18:34:31.131Z"
+    },
+    {
+      "id": 24,
+      "player": "§fOnline: §318§8/§b2025",
+      "first_seen": "2025-11-13T18:37:40.415Z"
+    },
+    {
+      "id": 25,
+      "player": "§fOnline: §317§8/§b2025",
+      "first_seen": "2025-11-13T18:52:53.465Z"
+    },
+    {
+      "id": 29,
+      "player": "§fOnline: §338§8/§b2025",
+      "first_seen": "2025-11-15T11:09:44.435Z"
+    },
+    {
+      "id": 30,
+      "player": "§fOnline: §365§8/§b2025",
+      "first_seen": "2025-11-15T15:41:18.591Z"
+    },
+    {
+      "id": 34,
+      "player": "§fOnline: §363§8/§b2025",
+      "first_seen": "2025-11-15T15:42:37.676Z"
+    },
+    {
+      "id": 35,
+      "player": "§fOnline: §369§8/§b2025",
+      "first_seen": "2025-11-15T16:19:04.641Z"
+    },
+    {
+      "id": 36,
+      "player": "§fOnline: §368§8/§b2025",
+      "first_seen": "2025-11-15T16:19:18.536Z"
+    },
+    {
+      "id": 37,
+      "player": "§fOnline: §339§8/§b2025",
+      "first_seen": "2025-11-15T18:25:14.312Z"
+    },
+    {
+      "id": 38,
+      "player": "§fOnline: §353§8/§b2025",
+      "first_seen": "2025-11-16T10:36:31.115Z"
+    },
+    {
+      "id": 39,
+      "player": "§fOnline: §355§8/§b2025",
+      "first_seen": "2025-11-16T10:38:14.406Z"
+    },
+    {
+      "id": 40,
+      "player": "§fOnline: §349§8/§b2025",
+      "first_seen": "2025-11-16T11:04:50.553Z"
+    },
+    {
+      "id": 41,
+      "player": "§fOnline: §350§8/§b2025",
+      "first_seen": "2025-11-16T11:05:20.033Z"
+    },
+    {
+      "id": 42,
+      "player": "§fOnline: §351§8/§b2025",
+      "first_seen": "2025-11-16T11:06:13.086Z"
+    },
+    {
+      "id": 43,
+      "player": "§fOnline: §348§8/§b2025",
+      "first_seen": "2025-11-16T11:08:38.233Z"
+    },
+    {
+      "id": 44,
+      "player": "§fOnline: §344§8/§b2025",
+      "first_seen": "2025-11-16T11:15:22.572Z"
+    },
+    {
+      "id": 46,
+      "player": "§fOnline: §352§8/§b2025",
+      "first_seen": "2025-11-16T12:08:49.994Z"
+    },
+    {
+      "id": 47,
+      "player": "§fOnline: §347§8/§b2025",
+      "first_seen": "2025-11-16T13:44:14.213Z"
+    },
+    {
+      "id": 48,
+      "player": "§fOnline: §354§8/§b2025",
+      "first_seen": "2025-11-16T15:15:30.755Z"
+    },
+    {
+      "id": 49,
+      "player": "§fOnline: §358§8/§b2025",
+      "first_seen": "2025-11-16T15:48:26.704Z"
+    },
+    {
+      "id": 50,
+      "player": "§fOnline: §356§8/§b2025",
+      "first_seen": "2025-11-16T15:55:18.596Z"
+    },
+    {
+      "id": 51,
+      "player": "§fOnline: §345§8/§b2025",
+      "first_seen": "2025-11-16T16:44:29.702Z"
+    },
+    {
+      "id": 52,
+      "player": "§fOnline: §337§8/§b2025",
+      "first_seen": "2025-11-16T17:41:27.365Z"
+    },
+    {
+      "id": 53,
+      "player": "§fOnline: §334§8/§b2025",
+      "first_seen": "2025-11-16T17:50:22.921Z"
+    },
+    {
+      "id": 54,
+      "player": "§fOnline: §335§8/§b2025",
+      "first_seen": "2025-11-16T17:51:02.874Z"
+    },
+    {
+      "id": 55,
+      "player": "§fOnline: §327§8/§b2025",
+      "first_seen": "2025-11-16T17:54:29.870Z"
+    },
+    {
+      "id": 56,
+      "player": "§fOnline: §328§8/§b2025",
+      "first_seen": "2025-11-16T17:55:57.217Z"
+    },
+    {
+      "id": 57,
+      "player": "§fOnline: §322§8/§b2025",
+      "first_seen": "2025-11-16T18:17:13.878Z"
+    },
+    {
+      "id": 58,
+      "player": "§fOnline: §364§8/§b2025",
+      "first_seen": "2025-11-17T15:24:06.834Z"
+    },
+    {
+      "id": 59,
+      "player": "§fOnline: §362§8/§b2025",
+      "first_seen": "2025-11-17T15:47:16.050Z"
+    },
+    {
+      "id": 60,
+      "player": "§fOnline: §361§8/§b2025",
+      "first_seen": "2025-11-17T16:22:06.985Z"
+    }
+  ],
+  "seq": 61,
+  "proofs": [
+    {
+      "key": "ban:3",
+      "image_url": "/uploads/1763303803148_photo_2025-11-16_15-29-45.jpg",
+      "added_by": "bytemcadmin",
+      "added_at": "2025-11-16T14:36:43.154Z"
+    },
+    {
+      "key": "mute:7",
+      "image_url": "/uploads/1763304967119_bandicam_2025-11-16_14-29-26-165.jpg",
+      "added_by": "helper",
+      "added_at": "2025-11-16T14:56:07.134Z"
+    },
+    {
+      "key": "kick:1",
+      "image_url": "/uploads/1763305000448_rain.jpg",
+      "added_by": "moder",
+      "added_at": "2025-11-16T14:56:40.451Z"
+    },
+    {
+      "key": "ban:4",
+      "image_url": "/uploads/1763306145158_bandicam_2025-11-14_19-51-29-049.jpg",
+      "added_by": "moder",
+      "added_at": "2025-11-16T15:15:45.172Z"
+    },
+    {
+      "key": "mute:8",
+      "image_url": "/uploads/1763306338578_bandicam_2025-11-16_14-28-07-743.jpg",
+      "added_by": "helper",
+      "added_at": "2025-11-16T15:18:58.592Z"
+    },
+    {
+      "key": "kick:2",
+      "image_url": "/uploads/1763306397936_bandicam_2025-11-14_19-51-59-416.jpg",
+      "added_by": "moder",
+      "added_at": "2025-11-16T15:19:57.959Z"
+    }
+  ]
+}
